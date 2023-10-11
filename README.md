@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Navin Nair
 - 👀 I’m interested in AI , Deep learning.
-- 🌱 I’m currently learning in FISAT.
+- 🌱 I’m currently passed out of FISAT,Angamaly.
 - 📫 How to reach me adityangn2000@gmail.com
 
 <!---
